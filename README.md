@@ -1,4 +1,4 @@
 # CondingBat
 
 CodingBat Solutions
-https://codingbat.com
+\n https://codingbat.com
